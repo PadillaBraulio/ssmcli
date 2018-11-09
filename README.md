@@ -1,6 +1,6 @@
 # ssmcli
 
-This cli helps you to manage your parameters on parameter store AWS.
+This cli helps you to manage your environments variables, that are stored on SSM parameter store.
 
 ## Getting Started
 
