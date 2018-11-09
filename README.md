@@ -1,6 +1,6 @@
-# Uploading parameters and secrets
+# ssmcli
 
-This script will upload parameters to parameter store
+This cli helps you to manage your parameters on parameter store AWS.
 
 ## Getting Started
 
